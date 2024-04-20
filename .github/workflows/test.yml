@@ -12,5 +12,5 @@ on:
 
 jobs:
   call-workflow-1-in-local-repo:
-    uses: tmtecnologia/cla-config/.github/workflows/cla.yml@main
+    uses: tmtecnologia/clabot-config/.github/workflows/cla.yml@main
     secrets: inherit
